@@ -1,5 +1,5 @@
 ---
-title: "yuxi-jin"
+title: "Yuxi Jin"
 ---
 
 This is a Quarto website.
