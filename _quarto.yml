@@ -16,6 +16,7 @@ website:
       - contact.qmd
   cookie-consent:
       type: express
+      palette: dark
 
 format:
   html:
