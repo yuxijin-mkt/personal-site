@@ -12,5 +12,12 @@
     "title": "Yuxi Jin",
     "section": "",
     "text": "Publications\n\nThe Impact of the General Data Protection Regulation on the Online Advertising Market, 2022, joint work with Bernd Skiera, Klaus Miller, Lennart Kraft, René Laub, and Julia Schmitt.\n\nSoftcover & Kindle eBook, Interactive PDF, Free Web Version.\nMedia coverage by Forbes.\n\nHow Do Privacy Laws Impact the Value for Advertisers, Publishers and Users in the Online Advertising Market? A Comparison of the EU, US and China, 2022, joint work with Bernd Skiera.\n\nJournal of Creating Value, forthcoming.\nFull paper: PDF, Publisher Version\n\n\n\n\n\nWorking in Progress\n\nStandardized Consent for Personal Data Privacy, with Bernd Skiera."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "knitr::include_graphics('images/yuxi-jin-cv-221017.pdf')"
   }
 ]

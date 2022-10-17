@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+```{r out.width="100%", out.height="700",echo=FALSE}
+knitr::include_graphics('images/yuxi-jin-cv-221017.pdf')
+```
