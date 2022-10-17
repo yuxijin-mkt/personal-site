@@ -1,1 +1,26 @@
 /* css styles */
+
+
+/* font size */
+body{
+  font-size: 12pt;
+}
+h1{
+  font-size: 20pt;
+}
+h2{
+  font-size: 16pt;
+}
+h3,h4,h5,h6{
+  font-size: 12pt;
+}
+
+
+/* color */
+a:link {
+  color: #5499cc;
+}
+
+a:visited {
+  color: #775299;
+}

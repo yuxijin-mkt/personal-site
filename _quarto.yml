@@ -4,16 +4,23 @@ project:
 
 website:
   title: "Yuxi Jin"
+  favicon: images/logo-site.png
   navbar:
+    background: "#6fa27d"
+    foreground: "white"
+    style: "docked"
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - contact.qmd
+  cookie-consent:
+      type: express
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: simplex
+    css: styles.css      
     toc: true
 
 editor: visual

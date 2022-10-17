@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Address\nGoethe University Frankfurt\nTheodor-W.-Adorno-Platz 4\n60323 Frankfurt am Main\nEmail\ny.jin@wiwi.uni-frankfurt.de"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yuxi Jin",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Publications\n\nThe Impact of the General Data Protection Regulation on the Online Advertising Market, 2022, with Bernd Skiera, Klaus Miller, Lennart Kraft, René Laub, and Julia Schmitt.\n\nSoftcover & Kindle eBook available at Amazon and interactive pdf available at Leanpub.\nMedia coverage by Forbes.\n\nHow Do Privacy Laws Impact the Value for Advertisers, Publishers and Users in the Online Advertising Market? A Comparison of the EU, US and China, 2022, with Bernd Skiera, Journal of Creating Value, forthcoming.\n\n\n\n\nWorking in Progress\n\nStandardized Consent for Personal Data Privacy, with Bernd Skiera"
   }
 ]
