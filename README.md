@@ -1,2 +1,2 @@
-# personal-site
-template
+# Personal website of Yuxi jin
+Explore more
