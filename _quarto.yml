@@ -19,7 +19,9 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: 
+      - simplex
+      - simplex.scss
     css: styles.css      
     toc: true
 

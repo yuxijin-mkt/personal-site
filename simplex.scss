@@ -29,7 +29,7 @@ $green:   #469408 !default;
 $teal:    #20c997 !default;
 $cyan:    #029acf !default;
 
-$primary:       $red !default;
+$primary:       #d9230f !default;
 $secondary:     $white !default;
 $success:       $green !default;
 $info:          $cyan !default;
@@ -64,8 +64,8 @@ $nav-tabs-border-color:             mix($white, $black, 93.5%) !default;
 
 // Navbar
 
-$navbar-dark-color:                 rgba($green, .75) !default;
-$navbar-dark-hover-color:           $green !default;
+$navbar-dark-color:                 rgba($white, .75) !default;
+$navbar-dark-hover-color:           $white !default;
 
 // Pagination
 
