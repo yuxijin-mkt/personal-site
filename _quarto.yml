@@ -17,6 +17,7 @@ website:
   cookie-consent:
       type: express
       palette: light
+      style: headline
 
 format:
   html:
