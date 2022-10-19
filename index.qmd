@@ -35,3 +35,8 @@ I am a Ph.D. candidate and a researcher in quantitative marketing at Goethe Univ
 ### **Working in Progress**
 
 -   Standardized Consent for Personal Data Privacy, with [Bernd Skiera](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/prof-dr-bernd-skiera.html).
+
+<br>
+
+### **Funding**
+All projects have received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation program (grant agreement No. 833714).
