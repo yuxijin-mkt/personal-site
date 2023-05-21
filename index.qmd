@@ -30,7 +30,7 @@ In my research projects, I empirically analyze the impacts of privacy regulation
 
 |                                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------|
-| **How Do Privacy Laws Impact the Value for Advertisers, Publishers and Users in the Online Advertising Market? A Comparison of the EU, US and China**, with [Bernd Skiera](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/prof-dr-bernd-skiera.html){style="font-size: 11pt;"}, *Journal of Creating Value, 2022, 8*(2), 306-327. |
+| **How Do Privacy Laws Impact the Value for Advertisers, Publishers and Users in the Online Advertising Market? A Comparison of the EU, US and China**, with [Bernd Skiera](https://www.marketing.uni-frankfurt.de/en/professoren/skiera/prof-dr-bernd-skiera.html){style="font-size: 11pt;"}, *Journal of Creating Value,* 2022, 8(2), 306-327. |
 | [PDF](https://journals.sagepub.com/doi/epdf/10.1177/23949643221117676) \| [DOI](https://doi.org/10.1177/23949643221117676)                                                                                                                                                                                                                      |
 
 <br/>
