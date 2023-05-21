@@ -4,13 +4,34 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Address\nGoethe University Frankfurt\nTheodor-W.-Adorno-Platz 4\n60323 Frankfurt am Main\nEmail\ny.jin@wiwi.uni-frankfurt.de"
+    "text": "Address\n\n\nGoethe University Frankfurt\nTheodor-W.-Adorno-Platz 4\n60323 Frankfurt am Main\n\n\nEmail\n\n\ny.jin@wiwi.uni-frankfurt.de"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yuxi Jin",
     "section": "",
-    "text": "Publications\n\nThe Impact of the General Data Protection Regulation on the Online Advertising Market, 2022, joint work with Bernd Skiera, Klaus Miller, Lennart Kraft, René Laub, and Julia Schmitt.\n\nSoftcover & Kindle eBook, Interactive PDF, Free Web Version.\nMedia coverage by Forbes.\n\nHow Do Privacy Laws Impact the Value for Advertisers, Publishers and Users in the Online Advertising Market? A Comparison of the EU, US and China, 2022, joint work with Bernd Skiera.\n\nJournal of Creating Value, forthcoming.\nFull paper: PDF, Publisher Version\n\n\n\n\n\nWorking in Progress\n\nStandardized Consent for Personal Data Privacy, with Bernd Skiera.\n\n\n\n\nFunding\nThe projects have received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program (grant agreement No. 833714)."
+    "text": "I am a Ph.D. candidate and a researcher in quantitative marketing at Goethe University Frankfurt.\nIn my research projects, I empirically analyze the impacts of privacy regulations focusing on the online advertising market. I explain and quantify the consequences for users (e.g., decision cost on cookie banners), firms (e.g., web traffic and tracking), and the whole market (e.g., website-tracker network)."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Yuxi Jin",
+    "section": "Publications",
+    "text": "Publications\n\n\n\nThe Impact of the General Data Protection Regulation on the Online Advertising Market, with Bernd Skiera, Klaus Miller, Lennart Kraft, René Laub, and Julia Schmitt, Book, 2022.\n\n\nSoftcover & Kindle eBook | Interactive PDF | Free Web Version\n\n\nMedia coverage by Forbes.\n\n\n\n\n\n\nHow Do Privacy Laws Impact the Value for Advertisers, Publishers and Users in the Online Advertising Market? A Comparison of the EU, US and China, with Bernd Skiera, Journal of Creating Value, 2022, 8(2), 306-327.\n\n\nPDF | DOI"
+  },
+  {
+    "objectID": "index.html#working-in-progress",
+    "href": "index.html#working-in-progress",
+    "title": "Yuxi Jin",
+    "section": "Working in Progress",
+    "text": "Working in Progress\n\n\n\nHow does Standardized Consent for Personal Data Processing Affect Online Tracking?, with Bernd Skiera.\n\n\n\n\n\n\nMapping Third-party Tracking in the Web, with Maximilian Matthe and Bernd Skiera."
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "Yuxi Jin",
+    "section": "Funding",
+    "text": "Funding\nAll projects have received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program (grant agreement No. 833714)."
   }
 ]
