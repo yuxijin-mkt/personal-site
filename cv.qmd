@@ -3,5 +3,5 @@ title: "CV"
 ---
 
 ```{r out.width="100%", out.height="700",echo=FALSE}
-knitr::include_graphics('images/yuxi-jin-cv-22-10.pdf')
+knitr::include_graphics('images/Yuxi-Jin-CV-2023-May.pdf')
 ```
