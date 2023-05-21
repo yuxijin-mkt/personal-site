@@ -18,14 +18,22 @@
     "href": "index.html#publications",
     "title": "Yuxi Jin",
     "section": "Publications",
+<<<<<<< HEAD
     "text": "Publications\n\n\n\nThe Impact of the General Data Protection Regulation on the Online Advertising Market, with Bernd Skiera, Klaus Miller, Lennart Kraft, René Laub, and Julia Schmitt, book, 2022.\n\n\nSoftcover & Kindle eBook | Interactive PDF | Free Web Version\n\n\nMedia coverage by Forbes\n\n\n\n\n\n\nHow Do Privacy Laws Impact the Value for Advertisers, Publishers and Users in the Online Advertising Market? A Comparison of the EU, US and China, with Bernd Skiera, Journal of Creating Value, 2022, 8(2), 306-327.\n\n\nPDF | DOI"
+=======
+    "text": "Publications\nThe Impact of the General Data Protection Regulation on the Online Advertising Market, with Bernd Skiera, Klaus Miller, Lennart Kraft, René Laub, and Julia Schmitt, book, 2022.\n\nSoftcover & Kindle eBook, Interactive PDF, Free Web Version.\nMedia coverage by Forbes.\n\nHow Do Privacy Laws Impact the Value for Advertisers, Publishers and Users in the Online Advertising Market? A Comparison of the EU, US and China, with Bernd Skiera, Journal of Creating Value, 2022, 8(2), 306-327.\n\nPDF, DOI"
+>>>>>>> f3328ac1ab89a807c28f8e92009b355ff45160a0
   },
   {
     "objectID": "index.html#working-in-progress",
     "href": "index.html#working-in-progress",
     "title": "Yuxi Jin",
     "section": "Working in Progress",
+<<<<<<< HEAD
     "text": "Working in Progress\n\n\n\nHow does Standardized Consent for Personal Data Processing Affect Online Tracking?, with Bernd Skiera.\n\n\n\n\n\n\nMapping Third-party Tracking in the Web, with Maximilian Matthe and Bernd Skiera."
+=======
+    "text": "Working in Progress\nHow does Standardized Consent for Personal Data Processing Affect Online Tracking?, with Bernd Skiera.\nMapping Third-party Tracking in the Web, with Maximilian Matthe and Bernd Skiera."
+>>>>>>> f3328ac1ab89a807c28f8e92009b355ff45160a0
   },
   {
     "objectID": "index.html#funding",
