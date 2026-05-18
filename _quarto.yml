@@ -13,7 +13,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - cv.qmd
       - contact.qmd
   cookie-consent:
       type: express
