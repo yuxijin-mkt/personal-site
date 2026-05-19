@@ -247,3 +247,23 @@ label {
 }
 
 
+/* Global layout alignment */
+
+#quarto-content,
+.quarto-container,
+.page-columns,
+.content,
+main.content,
+article {
+  text-align: left !important;
+}
+
+#quarto-content {
+  padding-left: 1.25rem !important;
+  padding-right: 1.25rem !important;
+}
+
+main.content {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
