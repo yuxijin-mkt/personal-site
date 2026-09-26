@@ -7,7 +7,7 @@ about:
   image-width: 15em
 ---
 
-I am a Ph.D. candidate and a researcher in quantitative marketing at Goethe University Frankfurt.
+I am a researcher in quantitative marketing and hold a Ph.D. from Goethe University Frankfurt.
 
 My research examines how privacy regulation reshapes data driven markets. I focus on how firms adapt their data practices and user communication, and how these responses affect users, firms, and competition in online advertising.
 

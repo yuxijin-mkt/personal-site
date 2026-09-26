@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Yuxi Jin\n\n\n\n\n\n\n\nAddress\n\n\n\nGoethe University Frankfurt\nTheodor-W.-Adorno-Platz 4\n60323 Frankfurt am Main\n\n\n\nEmail\n\n\n\ny.jin[at]wiwi.uni-frankfurt.de"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yuxi Jin",
     "section": "",
-    "text": "I am a Ph.D. candidate and a researcher in quantitative marketing at Goethe University Frankfurt.\nMy research examines how privacy regulation reshapes data driven markets. I focus on how firms adapt their data practices and user communication, and how these responses affect users, firms, and competition in online advertising."
+    "text": "I am a researcher in quantitative marketing and hold a Ph.D. from Goethe University Frankfurt.\nMy research examines how privacy regulation reshapes data driven markets. I focus on how firms adapt their data practices and user communication, and how these responses affect users, firms, and competition in online advertising."
   },
   {
     "objectID": "index.html#publications",
@@ -33,5 +26,12 @@
     "title": "Yuxi Jin",
     "section": "Funding",
     "text": "Funding\nAll projects have received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program (grant agreement No. 833714)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Yuxi Jin\n\n\n\n\n\n\n\nAddress\n\n\n\nGoethe University Frankfurt\nTheodor-W.-Adorno-Platz 4\n60323 Frankfurt am Main\n\n\n\nEmail\n\n\n\ny.jin[at]wiwi.uni-frankfurt.de"
   }
 ]
